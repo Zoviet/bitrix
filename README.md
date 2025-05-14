@@ -1,5 +1,3 @@
-# bitrix
-Bitrix Lua SDK
 # Bitrix CRM API Lua SDK 
 
 ```local api = require("bitrix.api")```
